@@ -1,2 +1,0 @@
-# GraphTest
-Created with CodeSandbox
